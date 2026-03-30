@@ -2,7 +2,7 @@
 title: Home
 nav_order: 1
 ---
-<img src="afbeelding-20251125-125248-89564856.jpeg" alt="Experience Lab" style="width:100%; border-radius:8px; margin-bottom:1.5rem;">
+<img src="team.jpeg" alt="Experience Lab" style="width:100%; border-radius:8px; margin-bottom:1.5rem;">
 
 # Welcome to the Experience Lab
 
