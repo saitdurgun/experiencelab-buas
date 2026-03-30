@@ -8,5 +8,5 @@ baseurl: "/experiencelab-buas"
 logo: "/experiencelab-buas/labrats_logo.jpg"
 
 aux_links:
-  "<img src='/experiencelab-buas/Logo BUas_RGB.png' alt='BUas Website' style='height:40px;'>": "https://www.buas.nl/experiencelab"
+  "<img src='/experiencelab-buas/Logo_BUas_RGB.png' alt='BUas' style='height:35px;'>": "https://www.buas.nl/experiencelab"
 aux_links_new_tab: true
