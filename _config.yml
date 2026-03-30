@@ -1,15 +1,9 @@
 title: The Experience Lab
 description: Understanding the emotions behind an experience — BUas
 theme: just-the-docs
-
-url: "https://saitdurgun.github.io/experiencelab-buas"
-baseurl: ""
+url: "https://saitdurgun.github.io"
+baseurl: "/experiencelab-buas"
 
 aux_links:
   BUas Website: "https://www.buas.nl/experiencelab"
-
 aux_links_new_tab: true
-
-footer_content: "The Experience Lab &mdash; Breda University of Applied Sciences. Contact: <a href='mailto:experiencelab@buas.nl'>experiencelab@buas.nl</a>"
-
-color_scheme: light
