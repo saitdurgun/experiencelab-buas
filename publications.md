@@ -5,7 +5,7 @@ nav_order: 6
 
 # Publications
 
-## Journal Articles
+## Research Papers
 
 ### 2026
 
