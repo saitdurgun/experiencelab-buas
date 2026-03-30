@@ -1,7 +1,22 @@
 <style>
-  a.site-logo img {
-    height: 120px !important;
-    max-height: none !important;
+  .site-logo img {
+    height: 80px !important;
+    max-height: 80px !important;
     width: auto !important;
   }
+
+  /* Make the logo click go to buas.nl */
+  .site-logo {
+    pointer-events: auto;
+  }
 </style>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    var logo = document.querySelector("a.site-logo");
+    if (logo) {
+      logo.href = "https://www.buas.nl/experiencelab";
+      logo.target = "_blank";
+    }
+  });
+</script>
