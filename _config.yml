@@ -4,7 +4,7 @@ remote_theme: just-the-docs/just-the-docs@v0.10.0
 
 url: "https://saitdurgun.github.io"
 baseurl: "/experiencelab-buas"
-
+logo: "/labrats_logo.jpeg"
 aux_links:
   BUas Website: "https://www.buas.nl/experiencelab"
 aux_links_new_tab: true
