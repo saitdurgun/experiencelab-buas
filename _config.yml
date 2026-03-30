@@ -2,8 +2,8 @@ title: The Experience Lab
 description: Understanding the emotions behind an experience — BUas
 theme: just-the-docs
 
-url: "https://saitdurgun.github.io"
-baseurl: "/experiencelab-buas"
+url: "https://saitdurgun.github.io/experiencelab-buas"
+baseurl: ""
 
 aux_links:
   BUas Website: "https://www.buas.nl/experiencelab"
