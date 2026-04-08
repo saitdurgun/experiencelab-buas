@@ -37,4 +37,4 @@ Over time, we hope our insights will contribute to better quality experiences fo
 
 **Address:** Mgr. Hopmansstraat 2 \| Frontier Building \| 4817 JS Breda \| The Netherlands
 
-**Head of the Experience Lab:** Marcel Bastiaansen
+**Head of the Experience Lab:** prof. dr. Marcel Bastiaansen
