@@ -25,7 +25,7 @@ Measuring skin conductance during a roller coaster ride at Europapark Germany, c
 ## 3. JOIN: Youth in an Inclusive Society
 Measuring emotional engagement of young adults with varying backgrounds during cultural experiences.
 
-[View project on BUas website](https://www.buas.nl/en/research/professorships/leisure-and-tourism-experiences/project-measuring-emotions-and-experiences){: .btn .btn-outline }
+[View project on BUas website](https://www.buas.nl/en/research/professorships/leisure-and-tourism-experiences/join){: .btn .btn-outline }
 
 ---
 
