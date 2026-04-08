@@ -28,5 +28,5 @@ The Netherlands
 
 ## Head of the Experience Lab
 
-**Marcel Bastiaansen**
+**Prof. Dr. Marcel Bastiaansen**
 [experiencelab@buas.nl](mailto:experiencelab@buas.nl)
