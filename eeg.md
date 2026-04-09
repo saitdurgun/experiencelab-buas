@@ -27,16 +27,16 @@ While sitting comfortably in our lab, participants wear an elastic swim cap with
 
 We can also simulate experiences in virtual reality, and measure when during a live or virtual experience people become more emotional. EEG is extremely precise in time — we can detect if a person is emotional even before they are aware of it.
 
-## Spotlight: Wim Strijbosch
-
-<div style="display: flex; gap: 20px; align-items: center; margin: 30px 0;">
-  <img src="assets/images/wim.png" alt=" Dr. Wim Strijbosch" style="width: 180px; border-radius: 8px; object-fit: cover;">
+<div style="display: flex; gap: 20px; align-items: flex-start; margin: 30px 0;">
+  <div style="text-align: center;">
+    <img src="assets/images/wim.png" alt="Wim Strijbosch" style="width: 180px; border-radius: 8px; object-fit: cover;">
+    <p style="margin-top: 8px;"><strong>Dr. Wim Strijbosch</strong><br>Researcher, Experience Lab</p>
+  </div>
   <div>
-    <p><strong> Dr. Wim Strijbosch is one of the researchers in the lab actively working with EEG.</strong></p>
+    <p><strong>Dr. Strijbosch is one of the researchers in the lab actively working with EEG.</strong></p>
     <p style="font-size: 1.1em; font-style: italic; color: #333; border-left: 4px solid #e87722; padding-left: 15px; margin: 10px 0;">
       "In my PhD, I aim at identifying how the temporal dynamics of emotions in an experience relate to how experiences are remembered and evaluated. I have studied these processes in the context of a virtual reality film and watching artworks using EEG, and in the context of a musical theatre show using skin conductance."
     </p>
-    <p><strong>Dr. Wim Strijbosch</strong><br>Researcher, Experience Lab</p>
   </div>
 </div>
 ---
