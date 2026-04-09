@@ -8,7 +8,7 @@ nav_order: 2
 Our Experience Lab features an Electroencephalography (EEG) device, which measures people's brain activity in reaction to photos, videos, or websites.
 
 <figure style="text-align: center; margin: 20px 0;">
-  <img src="assets/images/eeg_cap.jpg" alt="EEG cap preparation" style="width: 80%; border-radius: 8px;">
+  <img src="assets/images/ionut.jpg" alt="EEG cap preparation" style="width: 80%; border-radius: 8px;">
   <figcaption style="font-style: italic; color: #666; margin-top: 8px; font-size: 0.9em;">
     Lab. Asst. Ionut Botoroga preparing a participant for data collection.
   </figcaption>
