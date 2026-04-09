@@ -43,9 +43,12 @@ Over time, we hope our insights will contribute to better quality experiences fo
 
 ## Contact
 
-**Email:** [experiencelab@buas.nl](mailto:experiencelab@buas.nl)
-
-**Phone:** +31 76 533 22 03
-
-**Address:** Mgr. Hopmansstraat 2 \| Frontier Building \| 4817 JS Breda \| The Netherlands
+<div style="display: flex; gap: 20px; align-items: center; margin: 20px 0;">
+  <div>
+    <p><strong>Email:</strong> <a href="mailto:experiencelab@buas.nl">experiencelab@buas.nl</a></p>
+    <p><strong>Phone:</strong> +31 76 533 22 03</p>
+    <p><strong>Address:</strong> Mgr. Hopmansstraat 2 | Frontier Building | 4817 JS Breda | The Netherlands</p>
+  </div>
+  <img src="assets/images/frontier.png" alt="Frontier Building" style="width: 40%; border-radius: 8px;">
+</div>
 
