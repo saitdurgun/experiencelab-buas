@@ -16,14 +16,14 @@ While sitting comfortably in our lab, participants wear an elastic swim cap with
   <figure style="flex: 1; text-align: center; margin: 0;">
     <img src="assets/images/eeg_cap.jpg" alt="EEG cap preparation" style="width: 100%; border-radius: 8px; object-fit: cover;">
     <figcaption style="font-style: italic; color: #666; margin-top: 8px; font-size: 0.9em;">
-      Ionut Botoroga preparing a participant for data collection.
+      Lab assistant Ionut Botoroga preparing a participant for data collection.
     </figcaption>
   </figure>
 
   <figure style="flex: 1; text-align: center; margin: 0;">
-    <img src="assets/images/eeg_monitor.jpg" alt="Monitoring the experiment" style="width: 100%; border-radius: 8px; object-fit: cover;">
+    <img src="assets/images/eeg.jpg" alt="Monitoring the experiment" style="width: 100%; border-radius: 8px; object-fit: cover;">
     <figcaption style="font-style: italic; color: #666; margin-top: 8px; font-size: 0.9em;">
-      Ionut Botoroga and Dr. Sait Durgun monitoring the experiment.
+      Dr. Sait Durgun and lab assistant Ionut Botoroga monitoring the experiment.
     </figcaption>
   </figure>
 
