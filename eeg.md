@@ -7,31 +7,25 @@ nav_order: 2
 
 Our Experience Lab features an Electroencephalography (EEG) device, which measures people's brain activity in reaction to photos, videos, or websites.
 
+<figure style="text-align: center; margin: 20px 0;">
+  <img src="assets/images/eeg_cap.jpg" alt="EEG cap preparation" style="width: 80%; border-radius: 8px;">
+  <figcaption style="font-style: italic; color: #666; margin-top: 8px; font-size: 0.9em;">
+    Lab. Asst. Ionut Botoroga preparing a participant for data collection.
+  </figcaption>
+</figure>
+
 While sitting comfortably in our lab, participants wear an elastic swim cap with electrodes registering their brain activity. These signals are amplified and recorded on a computer. When the signals are averaged over 30 or so participants, clear patterns emerge which reveal emotional reactions to different materials — such as marketing content or museum exhibits.
 
+<figure style="text-align: center; margin: 20px 0;">
+  <img src="assets/images/eeg.jpg" alt="Monitoring the experiment" style="width: 80%; border-radius: 8px;">
+  <figcaption style="font-style: italic; color: #666; margin-top: 8px; font-size: 0.9em;">
+    Dr. Sait Durgun and Lab. Asst. Ionut Botoroga monitoring the experiment.
+  </figcaption>
+</figure>
+
 ---
-
-<div style="display: flex; gap: 20px; margin: 20px 0;">
-
-  <figure style="flex: 1; text-align: center; margin: 0;">
-    <img src="assets/images/eeg_cap.jpg" alt="EEG cap preparation" style="width: 100%; border-radius: 8px; object-fit: cover;">
-    <figcaption style="font-style: italic; color: #666; margin-top: 8px; font-size: 0.9em;">
-      Lab assistant Ionut Botoroga preparing a participant for data collection.
-    </figcaption>
-  </figure>
-
-  <figure style="flex: 1; text-align: center; margin: 0;">
-    <img src="assets/images/eeg.jpg" alt="Monitoring the experiment" style="width: 100%; border-radius: 8px; object-fit: cover;">
-    <figcaption style="font-style: italic; color: #666; margin-top: 8px; font-size: 0.9em;">
-      Dr. Sait Durgun and lab assistant Ionut Botoroga monitoring the experiment.
-    </figcaption>
-  </figure>
-
-</div>
 
 We can also simulate experiences in virtual reality, and measure when during a live or virtual experience people become more emotional. EEG is extremely precise in time — we can detect if a person is emotional even before they are aware of it.
-
----
 
 ## Spotlight: Wim Strijbosch
 
