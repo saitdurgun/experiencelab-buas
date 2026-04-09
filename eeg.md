@@ -28,8 +28,8 @@ While sitting comfortably in our lab, participants wear an elastic swim cap with
 We can also simulate experiences in virtual reality, and measure when during a live or virtual experience people become more emotional. EEG is extremely precise in time — we can detect if a person is emotional even before they are aware of it.
 
 <div style="display: flex; gap: 20px; align-items: flex-start; margin: 30px 0;">
-    <div style="text-align: center; min-width: 250px;">
-    <img src="assets/images/wim.png" alt="Wim Strijbosch" style="width: 250px; border-radius: 8px; object-fit: cover;">
+    <div style="text-align: center; min-width: 180px;">
+    <img src="assets/images/wim.png" alt="Wim Strijbosch" style="width: 180px; border-radius: 8px; object-fit: cover;">
     <p style="margin-top: 8px;"><strong>Dr. Wim Strijbosch</strong><br>Researcher, Experience Lab</p>
   </div>
   <div>
