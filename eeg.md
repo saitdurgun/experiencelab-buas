@@ -30,7 +30,7 @@ We can also simulate experiences in virtual reality, and measure when during a l
 <div style="display: flex; gap: 20px; align-items: flex-start; margin: 30px 0;">
     <div style="text-align: center; min-width: 180px;">
     <img src="assets/images/wim.png" alt="Wim Strijbosch" style="width: 180px; border-radius: 8px; object-fit: cover;">
-    <p style="margin-top: 8px;"><strong>Dr. Wim Strijbosch</strong><br>Researcher, Experience Lab</p>
+    <p style="margin-top: 8px;"><strong>Dr. Wim Strijbosch</strong></p>
   </div>
   <div>
     <p><strong>Dr. Strijbosch is one of the researchers in the lab actively working with EEG.</strong></p>
