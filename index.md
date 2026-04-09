@@ -32,9 +32,9 @@ Over time, we hope our insights will contribute to better quality experiences fo
 <div style="display: flex; gap: 20px; align-items: center; margin: 30px 0;">
   <img src="assets/images/marcel.jpg" alt="Prof. Dr. Marcel Bastiaansen" style="width: 180px; border-radius: 8px; object-fit: cover;">
   <div>
-    <blockquote>
-      <p><em>"Emotions drive the value of leisure, tourism, hospitality, and entertainment experiences"</em></p>
-    </blockquote>
+  <p style="font-size: 1.4em; font-style: italic; color: #333; border-left: 4px solid #e87722; padding-left: 15px; margin: 10px 0;">
+      "Emotions drive the value of leisure, tourism, hospitality, and entertainment experiences"
+    </p>
     <p><strong>Prof. Dr. Marcel Bastiaansen</strong><br>Head of the Experience Lab</p>
   </div>
 </div>
