@@ -29,6 +29,18 @@ Over time, we hope our insights will contribute to better quality experiences fo
 
 ---
 
+<div style="display: flex; gap: 20px; align-items: center; margin: 30px 0;">
+  <img src="assets/images/marcel.jpg" alt="Prof. Dr. Marcel Bastiaansen" style="width: 120px; height: 120px; border-radius: 50%; object-fit: cover; object-position: center top;">
+  <div>
+    <blockquote>
+      <p><em>"Emotions drive the value of leisure, tourism, hospitality, and entertainment experiences"</em></p>
+    </blockquote>
+    <p><strong>Prof. Dr. Marcel Bastiaansen</strong><br>Head of the Experience Lab</p>
+  </div>
+</div>
+
+---
+
 ## Contact
 
 **Email:** [experiencelab@buas.nl](mailto:experiencelab@buas.nl)
