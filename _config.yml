@@ -2,7 +2,7 @@ title: The Experience Lab
 description: Understanding the emotions behind an experience – BUas
 remote_theme: just-the-docs/just-the-docs@v0.10.0
 
-url: "http://experiencelab.buas.nl"
+url: "https://experiencelab.buas.nl"
 baseurl: ""
 
 logo: "/assets/images/logo_buas.png"
