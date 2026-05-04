@@ -6,3 +6,6 @@ url: "https://experiencelab.buas.nl"
 baseurl: ""
 
 logo: "/assets/images/logo_buas.png"
+
+plugins:
+  - jekyll-sitemap
